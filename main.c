@@ -1,7 +1,7 @@
 /*=================================================================================*/
                 /*Título: Projeto de Avaliação da disciplina LOG1*/
                 /*Aluno: Pedro Yoshiaki Freitas Nohara*/
-                /*Prontuário: SP3153991*/
+                /*Prontuário: XXXXXXXXX*/
 /*=================================================================================*/
 /* O programa capta um dia, mes e ano, a partir disso analisa se é uma data válida.
 Se for, calcula uma data final considerando se o ano tem 366 ou 365 dias e assim
