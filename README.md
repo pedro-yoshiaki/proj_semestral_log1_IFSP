@@ -35,6 +35,9 @@ Resultados: Após a inserção de uma data válida, o programa irá processar os
 A construção deste projeto permitiu aprofundar conhecimentos em áreas cruciais da programação em C, como:
 
 Lógica Algorítmica: Desenvolver o raciocínio para manipular datas, incrementá-las em laços e verificar condições complexas.
+
 Modularização: Organizar o código em funções bem definidas (validardata, Bissexto, processarTreinos), tornando-o mais limpo e de fácil manutenção.
+
 Manipulação de Arquivos: Praticar a criação, escrita e formatação de arquivos de texto (.TXT) para apresentar dados de forma clara ao usuário final.
+
 Matemática Aplicada: Utilizar o cálculo de MMC para resolver um requisito funcional do problema.
